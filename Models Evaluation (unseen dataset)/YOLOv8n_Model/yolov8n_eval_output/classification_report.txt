@@ -1,0 +1,11 @@
+Classification Report (YOLO-only):
+              precision    recall  f1-score   support
+
+  food_waste       0.46      0.46      0.46       200
+       metal       0.88      0.77      0.82       299
+       paper       0.71      0.33      0.45       215
+     plastic       0.72      0.41      0.52       212
+
+   micro avg       0.71      0.52      0.60       926
+   macro avg       0.70      0.49      0.56       926
+weighted avg       0.72      0.52      0.59       926
