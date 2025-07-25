@@ -1,0 +1,9 @@
+Classification Report (EfficientNetB0):
+                precision    recall  f1-score   support
+
+    food_waste       0.84      0.84      0.84       240
+not_food_waste       0.83      0.84      0.84       235
+
+      accuracy                           0.84       475
+     macro avg       0.84      0.84      0.84       475
+  weighted avg       0.84      0.84      0.84       475
