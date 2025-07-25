@@ -1,0 +1,12 @@
+Classification Report (hybrid, including 'background'):
+              precision    recall  f1-score   support
+
+  food_waste       0.51      0.13      0.21       571
+       metal       0.43      0.60      0.50       158
+       paper       0.46      0.23      0.30        84
+     plastic       0.36      0.14      0.20       186
+  background       0.00      0.00      0.00       261
+
+   micro avg       0.18      0.17      0.17      1260
+   macro avg       0.35      0.22      0.24      1260
+weighted avg       0.37      0.17      0.21      1260

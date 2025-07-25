@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['food_waste', 'metal', 'paper', 'plastic']
+
+roboflow:
+  workspace: wastetestcases
+  project: testcase2
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wastetestcases/testcase2/dataset/4

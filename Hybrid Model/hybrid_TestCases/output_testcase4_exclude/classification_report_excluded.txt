@@ -1,0 +1,11 @@
+Classification Report (excluding not_food_waste):
+              precision    recall  f1-score   support
+
+  food_waste       0.93      0.72      0.81        36
+       metal       0.78      1.00      0.88        98
+       paper       0.89      0.95      0.92        43
+     plastic       1.00      0.61      0.76        84
+
+   micro avg       0.86      0.83      0.84       261
+   macro avg       0.90      0.82      0.84       261
+weighted avg       0.89      0.83      0.84       261
