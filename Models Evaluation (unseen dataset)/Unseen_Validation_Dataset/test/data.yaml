@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 4
+names: ['food_waste', 'metal', 'paper', 'plastic']
+
+roboflow:
+  workspace: cp2-gycrt
+  project: test_trash_dataset
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cp2-gycrt/test_trash_dataset/dataset/2
