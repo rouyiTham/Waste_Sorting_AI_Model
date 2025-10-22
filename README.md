@@ -64,6 +64,24 @@ Make sure you are in the "Hybrid Model" directory, and both YOLOv8n and Efficien
 
 ---
 
+## 🎞️ Demonstration
+
+Below is a short demo of the hybrid system in action:
+
+![Hybrid Model Demo](demo.gif)
+
+> The demo shows YOLOv8n detecting waste objects while EfficientNetB0 refines their classifications in real-time. Here, a piece of half eaten bread is correctly detected as "food waste".
+
+---
+
+## 📊 Presentation Slides
+
+For a detailed explanation of the project objectives, model architecture, evaluation results and more, refer to the project slides below:
+
+🔗 [View Project Slides]([https://your-slide-link-here](https://www.canva.com/design/DAGuiBK2tx0/JlXiMMkWx1i2Wxllpo05kQ/view?utm_content=DAGuiBK2tx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h297a1de4ce))
+
+---
+
 ## 📌 Notes
 - The hybrid model enhances classification precision by refining YOLOv8n predictions using EfficientNetB0.
 - Results reported is the improvement of recall for food waste class from 0.46 to 0.56.
