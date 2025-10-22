@@ -78,7 +78,7 @@ Below is a short demo of the hybrid system in action:
 
 For a detailed explanation of the project objectives, model architecture, evaluation results and more, refer to the project slides below:
 
-🔗 [View Project Slides]([https://your-slide-link-here](https://www.canva.com/design/DAGuiBK2tx0/JlXiMMkWx1i2Wxllpo05kQ/view?utm_content=DAGuiBK2tx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h297a1de4ce))
+🔗 [View Project Slides](https://www.canva.com/design/DAGuiBK2tx0/JlXiMMkWx1i2Wxllpo05kQ/view?utm_content=DAGuiBK2tx0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h297a1de4ce)
 
 ---
 
